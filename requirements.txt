@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.neighbors
+sklearn.metrics
+sklearn.metrics
+sklearn.metrics
