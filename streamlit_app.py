@@ -19,7 +19,8 @@ middle.write('Dataset iris')
 
 
 #Charger le fichier iris.csv dans un DataFrame
-df = pd.read_csv('iris.csv', delimiter=";")
+df = pd.read_csv('iris.csv')
+#delimiter=";"
 
 # Séparer les caractéristiques et la cible
 X = df.drop('Species', axis=1)
