@@ -1,2 +1,2 @@
 # iris_app
-knn iris and visualization with streamlit
+knn iris and mathE and visualization with streamlit
